@@ -1740,13 +1740,4 @@ public class emojiParser {
     	//Returning text
     	return returnTextString;
     }
-    
-    /**
-     * Get the equivalent emoticon Cheat Sheet icon
-     * @param Input icon code
-     * @return Output chearsheet code
-     */
-    public static String emoticonCode(String text){
-    	return EmojiMap.get(text);
-    }
 }
