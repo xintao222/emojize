@@ -39,6 +39,4 @@ public static String demojizedText(String text){}
 
 ---
 
-## Android Support
-Emojize Java is tested on iOS 5 and up. Older versions of iOS may work but are not currently supported.
 
